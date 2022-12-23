@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Lily
 - 😍 I’m interested in front-end
-- 🌱 I’m currently learning Reactjs ⚛︎
+- 🌱 I’m currently exploring Reactjs ⚛︎
