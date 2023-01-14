@@ -1,3 +1,5 @@
 - 👋 Hi, I'm Lily
 - 😍 I’m interested in front-end and design world
-- 🌱 I’m currently exploring Svelte
+- 🥳 On this canvas, I have painted some Reactjs, Tailwind, Nextjs and Typescript
+- 🌱 I’m currently exploring Svelte and Greensock GSAP
+- 👀 A creative, fun, forward-thinking agency is where I see my spot
